@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: thunguyen/movieweb:latest
+          tags: lilycute17/movieweb:latest
